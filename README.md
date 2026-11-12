@@ -2,8 +2,8 @@
 
 [![Read in English](https://img.shields.io/badge/Read%20in-English-2563eb?style=for-the-badge)](README.en.md)
 
-Doplňky ke stažení pro [Keyboard Utils](https://github.com/tomandesMSH/Keyboard-Utils), aplikaci na cvičení
-ZUŠ Moravský Krumlov.
+Doplňky ke stažení pro [Keyboard Utils](https://github.com/tomandesMSH/Keyboard-Utils), aplikaci na cvičení hry
+na hudební nástroje.
 
 ## Balíčky nástrojů
 

@@ -2,8 +2,7 @@
 
 [![Číst česky](https://img.shields.io/badge/%C4%8C%C3%ADst-%C4%8Desky-2563eb?style=for-the-badge)](README.md)
 
-Downloadable add-ons for [Keyboard Utils](https://github.com/tomandesMSH/Keyboard-Utils), the practice app of
-ZUŠ Moravský Krumlov.
+Downloadable add-ons for [Keyboard Utils](https://github.com/tomandesMSH/Keyboard-Utils), a music practice app.
 
 ## Instrument packs
 
